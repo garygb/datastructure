@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "无向图中求两点间的所有简单路径", "无向图中求两点间的所有简单路径\无向图中求两点间的所有简单路径.vcproj", "{A755C3A4-8206-455B-8C5E-B1445ECD1FC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A755C3A4-8206-455B-8C5E-B1445ECD1FC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A755C3A4-8206-455B-8C5E-B1445ECD1FC6}.Debug|Win32.Build.0 = Debug|Win32
+		{A755C3A4-8206-455B-8C5E-B1445ECD1FC6}.Release|Win32.ActiveCfg = Release|Win32
+		{A755C3A4-8206-455B-8C5E-B1445ECD1FC6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
